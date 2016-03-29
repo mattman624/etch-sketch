@@ -1,0 +1,61 @@
+.tile{
+	background-color: #f0f0f0;
+	height: 200px;
+	width: 200px;
+	color: #f0f0f0;
+	
+	display: inline-block;
+	/*margin: 2px;*/
+	
+}
+
+.tile:hover{
+	color: black;
+	background-color: black;
+}
+#container{
+	float: left;
+	display: block;
+	margin: 0 auto;
+	
+}
+
+.pallet{
+	margin: 0 auto;
+	text-align: center;
+}
+
+#reset {
+	
+	background-color: #f0f0f0;
+	color: #666;
+	border-radius: 5px;
+	display: block;
+	width: 50px;
+	margin: 5px auto;
+}
+a{
+	text-decoration: none;
+
+}
+
+.filled{
+	background-color: black;
+	color: black;
+}
+
+#color_selector{
+	
+	width: 50px;
+	height: 150px;
+	float: left;
+	position: relative;
+	margin: 0 0 20px 0;
+
+}
+
+h2{
+	text-align: center;
+	margin: 0 auto;
+}
+
